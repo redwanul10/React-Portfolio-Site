@@ -1,3 +1,3 @@
 # Folio
-A portfolio website
+A portfolio website using React
 [Demo](https://react-portfolio-site.netlify.com/)
