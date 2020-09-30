@@ -19,7 +19,7 @@
               }
             ],
             "backgroundImage": {
-              "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/home-bg.jpg"
+              "mediaItemUrl": "/images/home-bg.jpg"
             },
             "socialMedia": null
           },
@@ -33,7 +33,7 @@
                 "name": "MOBILE APPS",
                 "photo": {
                   "id": "YXR0YWNobWVudDoyOTA=",
-                  "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/download-2.png"
+                  "mediaItemUrl": "fa fa-android"
                 }
               },
               {
@@ -42,7 +42,7 @@
                 "name": "WEB DESIGN",
                 "photo": {
                   "id": "YXR0YWNobWVudDoyOTI=",
-                  "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/download.png"
+                  "mediaItemUrl": "fa fa-paint-brush"
                 }
               },
               {
@@ -51,7 +51,7 @@
                 "name": "PHOTOGRAPHY",
                 "photo": {
                   "id": "YXR0YWNobWVudDoyOTE=",
-                  "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/download-1.png"
+                  "mediaItemUrl": "fa fa-camera"
                 }
               },
               {
@@ -60,7 +60,7 @@
                 "name": "ANALYTCS",
                 "photo": {
                   "id": "YXR0YWNobWVudDoyOTM=",
-                  "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/images.jpg"
+                  "mediaItemUrl": "fa fa-bar-chart"
                 }
               }
             ],
@@ -73,22 +73,22 @@
             "titleAnimation": "fadeInDown",
             "images": [
               {
-                "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/1.jpg"
+                "mediaItemUrl": "/images/portfolio/1.jpg"
               },
               {
-                "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/2.jpg"
+                "mediaItemUrl": "/images/portfolio/2.jpg"
               },
               {
-                "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/3.jpg"
+                "mediaItemUrl": "/images/portfolio/3.jpg"
               },
               {
-                "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/4.jpg"
+                "mediaItemUrl": "/images/portfolio/4.jpg"
               },
               {
-                "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/5.jpg"
+                "mediaItemUrl": "/images/portfolio/5.jpg"
               },
               {
-                "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/6.jpg"
+                "mediaItemUrl": "/images/portfolio/6.jpg"
               }
             ]
           },
@@ -100,9 +100,9 @@
                 "id": "cG9zdDoxMA==",
                 "title": "GraphQL Tips for 2020",
                 "content": "<!-- wp:paragraph -->\n<p>ok testing graphql with wordpress as a headless cms</p>\n<!-- /wp:paragraph -->",
-                "excerpt":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                "excerpt": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
                 "featuredImage": {
-                  "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/blog-post-2-1.jpg"
+                  "mediaItemUrl": "/images/blog-post-2.jpg"
                 },
                 "postAnim": {
                   "delay": null,
@@ -113,9 +113,9 @@
                 "id": "cG9zdDox",
                 "title": "Hello world!",
                 "content": "<!-- wp:paragraph -->\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p> It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p> It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p> It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->",
-                "excerpt":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                "excerpt": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
                 "featuredImage": {
-                  "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/blog-post-1.jpg"
+                  "mediaItemUrl": "/images/blog-post-1.jpg"
                 },
                 "postAnim": {
                   "delay": 150,
@@ -126,9 +126,9 @@
                 "id": "cG9zdDo0MQ==",
                 "title": "Youtube SEO Tips for Beginners",
                 "content": "<!-- wp:paragraph -->\n<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>alskdfhowaeb skjdfhawiu ehr skjfgawiu egar kjsdgfiu wjsdgfiuwger</p>\n<!-- /wp:paragraph -->",
-                "excerpt":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+                "excerpt": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
                 "featuredImage": {
-                  "mediaItemUrl": "https://wpheadlesss.000webhostapp.com/wp-content/uploads/2019/11/blog-post-3.jpg"
+                  "mediaItemUrl": "/images/blog-post-3.jpg"
                 },
                 "postAnim": {
                   "delay": null,
